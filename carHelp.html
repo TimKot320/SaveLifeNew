@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>CarHelp</title>
+</head>
+<body>
+	<form action="#" class="carhelp">
+		<h2 class="carhelp__title-top">Автопомощь</h2>
+		<hr>
+		<p class="carhelp__title">Заявка</p>
+		<p class="carhelp__text">Отправьте нам заявку о том, что готовы помочь. Когда нам будет необходима помощь в транспортировке, мы позвоним вам.</p>
+		<input type="text" placeholder="Фамилия и имя">
+		<input type="tel" placeholder="Номер телефона">
+		<p>Обязательное поле для заполнения</p>
+		<p>Выберите вид автопомощи</p>
+		<input type="checkbox" id="delivery__small">
+		<label for="delivery__small">Доставка еды, медикаментов и других небольших вещей</label>
+		<input type="checkbox" id="delivery__big">
+		<label for="delivery__big">Доставка сена или соломы, строительных материлов для будок и других крупногабаритных вещей</label>
+		<input type="checkbox" id="transfer__small">
+		<label for="transfer__small">Транспортировка небольших собак и котов</label>
+		<input type="checkbox" id="transfer__big">
+		<label for="transfer__big">Транспортировка больших собак</label>
+		<textarea name="comment" id="comment" cols="30" rows="10" placeholder="Замечания"></textarea>
+		<button class="btn-go">Оставить заявку</button>
+		<button class="btn-cancel">Отмена</button>
+	</form>
+</body>
+</html>

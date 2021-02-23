@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Volunteering</title>
+</head>
+<body>
+	<form action="#" class="volunteer">
+		<h2 class="volunteer__title-top">Волонтерство</h2>
+		<hr>
+		<p class="volunteer__title">Заявка</p>
+		<p class="volunteer__text">Отправьте нам заявку о том, что готовы помочь. Когда нам будет необходима помощь, мы позвоним вам.</p>
+		<input type="text" placeholder="Фамилия и имя">
+		<input type="tel" placeholder="Номер телефона">
+		<p>Обязательное поле для заполнения</p>
+		<div>
+			<input type="radio" name="help" id="help__over">
+			<label for="help__over">Хочу помогать на постоянной основе (расписание можно подобрать так, как будет вам удобно)</label>
+			<input type="radio" name="help" id="help__sometimes">
+			<label for="help__sometimes">Готов помогать иногда. Хочу выбрать удобное для меня время</label>
+		</div>
+		<textarea name="comment" id="comment" cols="30" rows="10" placeholder="Замечания"></textarea>
+		<button class="btn-go">Оставить заявку</button>
+		<button class="btn-cancel">Отмена</button>
+	</form>
+</body>
+</html>

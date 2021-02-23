@@ -1,0 +1,1462 @@
+@media (max-width: 1269px) {
+	.container {
+		max-width: 814px;
+	}
+
+	/* * ======= Шапка ======= */
+	.header__container-link {
+		min-width: 493px;
+	}
+	.header__container-sociallink {
+		margin-right: 69px;
+	}
+	.header__img-bottom {
+		right: 107px;
+		top: 374px;
+	}
+
+	/* * ======= Секция 1 "Приветствие" ======= */
+	.greeting__banner {
+		margin: 33px 0px 107px 0px;
+	}
+	.greeting__title {
+		font-size: 64px;
+		line-height: 77px;
+	}
+	.greeting__text {
+		font-size: 14px;
+		line-height: 16px;
+	}
+	.greeting__target {
+		max-width: 461px;
+		font-size: 14px;
+	}
+	.greeting__slogan {
+		font-size: 20px;
+		line-height: 24px;
+		max-width: 300px;
+	}
+	.greeting__imgtext {
+		bottom: -75px;
+	}
+
+	/* * ======= Секция 2 ======= */
+	.sectiontwo__wrapper {
+		padding: 36px 0px;
+	}
+	.sectiontwo__img::before {
+		min-height: 363px;
+	}
+	.sectiontwo__img-big {
+		border: 20px solid #FFC41E;
+	}
+	.sectiontwo__img-small {
+		right: -20px;
+		top: 211px;
+	}
+	.sectiontwo__img-small img {
+		border: 5px solid #EEBF3A;
+	}
+	.sectiontwo__banner {
+		max-width: 335px;
+		margin: 31px 0px 0px 73px;
+	}
+	.sectiontwo__subtitle {
+		font-size: 24px;
+		margin: 0px 0px 24px 0px;
+	}
+	.sectiontwo__text-marbottom {
+		margin: 0px 0px 16px 0px;
+	}
+
+	/* * ===== Секция 3 "Как помочь?" ===== */
+	.help__title {
+		font-size: 24px;
+		margin: 64px 0px 32px 0px;
+	}
+	.help__item {
+		max-width: 140px;
+	}
+	.help__item-img {
+		width: 110px;
+		height: 110px;
+	}
+	.help__item div svg {
+		max-width: 70px;
+		margin: auto;
+	}
+	.help__text {
+		font-size: 14px;
+		line-height: 20px;
+		margin: 20px 0px 0px 0px;
+	}
+
+	/* * ======= Секция 4 "Наши подопечные" ======= */
+	.fosterling {
+		margin: 75px 0px 0px 0px;
+	}
+	.fosterling__title-img img {
+		height: 98px;
+		padding: 0px 28px;
+	}
+	.fosterling__banners {
+		margin: 60px 0px 0px 0px;
+	}
+	.fosterling__banner {
+		max-width: 275px;
+	}
+	.fosterling__banner-left {
+		margin: 0px 69px 0px 0px;
+	}
+	.fosterling__subtitle {
+		font-size: 24px;
+		margin: 0px 0px 4px 0px;
+	}
+	.fosterling__title {
+		font-size: 24px;
+		margin: 48px 0px 24px 0px;
+	}
+	.fosterling__cards {
+		grid-template-columns: repeat(2, minmax(368px, 1fr));
+		column-gap: 68px;
+	}
+	.fosterling__link {
+		margin: 12px 10px 48px;
+	}
+	.fosterling__bottom {
+		max-width: 670px;
+		margin: 0px auto 70px auto;
+	}
+	.fosterling__text-bottom {
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	/* * ======= Секция 5 "Финансовая поддержка" ======= */
+	.support {
+		padding: 45px 0px 24px 0px;
+	}
+	.support__title-img img {
+		height: 64px;
+		padding: 0px 34px;
+	}
+	.support__promo {
+		margin: 55px 0px 0px 0px;
+	}
+	.support__title {
+		font-size: 24px;
+		margin: 0px 0px 16px 0px;
+	}
+	.support__text {
+		font-size: 16px;
+		max-width: 530px;
+	}
+	.support__contentboxes {
+		max-width: 650px;
+		padding-left: 30px;
+	}
+	.support__contentbox-left {
+		min-width: 275px;
+		margin: 0px 69px 0px 0px;
+	}
+	.support__subtitle {
+		font-size: 24px;
+	}
+	.support__ol-subtitle, 
+	.support__infotext,
+	.support__list li a {
+		font-size: 14px;
+	}
+	.support__list li {
+		margin: 0px 0px 0px 15px;
+	}
+
+	/* * ======= Секция 6 "Помощь" ======= */
+	.helping {
+		padding: 65px 0px 0px 0px;
+	}
+	.helping__title-img img {
+		height: 68px;
+		padding: 0px 36px;
+	}
+	.helping__container {
+		max-width: 575px;
+		padding-left: 80px;
+	}
+	.helping__title {
+		font-size: 24px;
+	}
+
+	/* * ======= Секция 7 "Автопомощь" ======= */
+	.assistcar {
+		margin: 62px 0px 80px 0px;
+	}
+	.assistcar__title-img img {
+		height: 80px;
+		padding: 0px 38px;
+	}
+	.assistcar__banner {
+		max-width: 570px;
+		margin: 27px auto 0px auto;
+		padding-left: 90px;
+	}
+	.assistcar__title {
+		font-size: 24px;
+	}
+	.assistcar__text {
+		margin: 24px 0px 38px 0px;
+	}
+
+	/* * ======= Секция 8 "Волонтерство" ======= */
+	.volunteering {
+		margin: 0px 0px 41px 0px;
+	}
+	.volunteering__title-img img {
+		height: 75px;
+		padding: 0px 51px;
+	}
+	.volunteering__wrapper {
+		margin-top: 50px;
+	}
+	.volunteering__img::before {
+		min-height: 389px;
+	}
+	.volunteering__img-pic {
+		border: 20px solid #FFC41E;
+	}
+	.volunteering__banner {
+		margin: 0px 0px 0px 60px;
+		max-width: 325px;
+	}
+	.volunteering__title {
+		font-size: 24px;
+	}
+
+	/* * ======= Секция 9 "Новости" ======= */
+	.news {
+		padding: 36px 0px;
+	}
+	.news__title {
+		font-size: 24px;
+		line-height: 24px;
+	}
+	.news__wrapper {
+		max-width: 616px;
+		margin: 26px auto 0px auto;
+	}
+	.news__article--marbottom {
+		margin: 0px 0px 33px 0px;
+	}
+	.news__img {
+		max-width: 130px;
+	}
+	.news__content {
+		margin-left: 56px;
+	}
+
+	/* *======= Секция 10 "О нас" ======= */
+	.about {
+		padding: 48px 0px;
+	}
+	.about__title {
+		font-size: 24px;
+	}
+	.about__wrapper {
+		max-width: 570px;
+		padding-left: 90px;
+	}
+	.about__text {
+		font-size: 16px;
+	}
+	.about__contacts {
+		font-size: 14px;
+		margin: 24px 0px 32px 0px;
+	}
+	.about__socialtext {
+		margin: 0px 0px 24px 0px;
+	}
+
+	/* *======= Секция 11 "Спасибо за помощь" ======= */
+	.gratitude {
+		padding: 89px 0px 76px 0px;
+		min-height: 555px;
+	}
+	.gratitude__container {
+		max-width: 883px;
+	}
+	.gratitude__wrapper {
+		min-width: 390px;
+		min-height: 390px;
+	}
+	.gratitude__wrapper::before {
+		content: '';
+		position: absolute;
+		width: 150%;
+		min-height: 390px;
+		right: 50%;
+		top: 0;
+		background-color: #322D1E;
+	}
+	.gratitude__text {
+		margin: 138px 0px 0px 30px;
+	}
+	.gratitude__title {
+		font-size: 48px;
+		line-height: 58px;
+		max-width: 255px;
+	}
+	.gratitude__img {
+		height: 67px;
+	}
+
+	/* *======= Футтер ======= */
+	.footer {
+		padding: 24px 0px 16px 0px;
+	}
+	.footer__nav {
+		grid-template: 1fr 1fr / 1fr 1fr;
+	}
+	.footer__nav-item {
+		grid-column: 1/3;
+		display: flex;
+		justify-content: space-between;
+		justify-items: start;
+	}
+	.footer__nav-link {
+		margin-right: 0px;
+	}
+	.footer__about-item {
+		justify-self: start;
+	}
+	.footer__about-link {
+		margin-left: 0px;
+		margin-right: 21px;
+	}
+	.footer__copy {
+		grid-column: 2/3;
+		justify-self: end;
+	}
+
+}
+
+@media (max-width: 1023px) {
+	body.lock {
+		overflow: hidden;
+	}
+	.container {
+		max-width: 558px;
+	}
+	/* * ======= Шапка ======= */
+	.header__menu {
+		padding: 24px 0px 0px 0px;
+	}
+	.header__burger {
+		display: block;
+		position: relative;
+		width: 30px;
+		height: 21px;
+		z-index: 3;
+	}
+	.header__burger.active {
+		position: fixed;
+	}
+	.header__burger span {
+		position: absolute;
+		background-color: #242424;
+		left: 0;
+		width: 100%;
+		height: 3px;
+		top: 9px;
+		transition: all 0.3s ease 0s;
+	}
+	.header__burger::before,
+	.header__burger::after {
+		content: '';
+		background-color: #242424;
+		position: absolute;
+		width: 100%;
+		height: 3px;
+		left: 0;
+		transition: all 0.3s ease 0s;
+	}
+	.header__burger::before {
+		top: 0;
+	}
+	.header__burger::after {
+		bottom: 0;
+	}
+	.header__burger.active span {
+		transform: scale(0);
+	}
+	.header__burger.active::before {
+		transform: rotate(45deg);
+		top: 9px;
+	}
+	.header__burger.active::after {
+		transform: rotate(-45deg);
+		bottom: 9px;
+	}
+	.header__container-link {
+		position: fixed;
+		top: -100%;
+		left: 0;
+		width: 100%;
+		height: 383px;
+		transition: all 0.3s ease 0s;
+		background-color: #ffffff;
+		padding: 90px 0px 0px 0px;
+		z-index: 2;
+		display: block;
+	}
+	.header__container-link.active::before {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 80px;
+		background-color: #FFC41E;
+		z-index: 50;
+	}
+	.header__container-link.active {
+		top: 0;
+	}
+	.header__link-left {
+		margin-right: 0px;
+	}
+	.header__container-link div a {
+		display: block;
+		text-align: center;
+		height: 68px;
+		line-height: 68px;
+		border-bottom: 1px solid rgba(255, 196, 30, 0.5);
+		max-width: 560px;
+		margin: 0 auto;
+	}
+	div > a.header__link--last-cld {
+		border-bottom: none;
+	}
+	.header__container-sociallink {
+		margin-right: 42px;
+	}
+	.header__sociallink {
+		width: 40px;
+		height: 40px;
+	}
+	.header__sociallink--vk svg {
+		width: 26px;
+		height: 16px;
+	}
+	.header__sociallink--inst svg {
+		width: 22px;
+		height: 22px;
+	}
+	.header__img-bottom {
+		right: 73px;
+		top: 256px;
+	}
+
+	/* ======= ОСНОВНОЙ КОНТЕНТ ======= */
+
+	/* * ======= Секция 1 "Приветствие" ======= */
+	.greeting__banner {
+		margin: 12px 0px 42px 0px;
+	}
+	.greeting__title {
+		font-size: 42px;
+		line-height: 51px;
+	}
+	.greeting__text {
+		margin-top: 6px;
+		max-width: 270px;
+	}
+	.greeting__target {
+		max-width: 325px;
+		margin-top: 8px;
+	}
+	.greeting__slogan {
+		font-size: 16px;
+		line-height: 19px;
+		max-width: 205px;
+		margin: 40px 0px 0px 0px;
+	}
+	.greeting__imgtext {
+		left: -112px;
+		bottom: 70px;
+	}
+
+	/* * ======= Секция 2 ======= */
+	.sectiontwo__wrapper {
+		max-width: 590px;
+		padding: 24px 0px;
+	}
+	.sectiontwo__img::before {
+		min-height: 270px;
+	}
+	.sectiontwo__img-big {
+		border: 13px solid #FFC41E;
+	}
+	.sectiontwo__img-small  {
+		right: -23px;
+		top: 160px;
+	}
+	.sectiontwo__banner {
+		max-width: 335px;
+		margin: 0px 0px 0px 55px;
+	}
+	.sectiontwo__subtitle {
+		font-size: 20px;
+	}
+	.sectiontwo__text {
+		font-size: 14px;
+	}
+	.sectiontwo__text-marbottom {
+		margin: 0px 0px 16px 0px;
+	}
+
+	/* * ===== Секция 3 "Как помочь?" ===== */
+	.help__title {
+		margin: 64px 0px 0px 0px;
+	}
+	.help__items {
+		flex-wrap: wrap; 
+		align-items: flex-start;
+		justify-content: center;
+	}
+	.help__item {
+		margin: 32px 13px 0px;
+	}
+
+	/* * ======= Секция 4 "Наши подопечные" ======= */
+	.fosterling {
+		margin: 55px 0px 0px 0px;
+	}
+	.fosterling__title-img img {
+		height: 62px;
+		padding: 0px 26px;
+	}
+	.fosterling__banners {
+		margin: 40px 0px 0px 0px;
+	}
+	.fosterling__banner {
+		max-width: 190px;
+	}
+	.fosterling__banner-left {
+		margin: 0px 47px 0px 0px;
+	}
+	.fosterling__subtitle {
+		font-size: 20px;
+		margin-bottom: 8px;
+	}
+	.fosterling__text {
+		font-size: 14px;
+	}
+	.fosterling__cards {
+		grid-template-columns: minmax(auto, 368px);
+		justify-content: center;
+	}
+	.fosterling__bottom {
+		max-width: 500px;
+		margin: 0px auto 70px auto;
+	}
+	.fosterling__text-bottom {
+		font-size: 14px;
+		line-height: 140%;
+		max-width: 370px;
+	}
+	.fosterling__sociallink {
+		width: 40px;
+		height: 40px;
+	}
+	.fosterling__sociallink svg {
+		margin: auto;
+	}
+	.fosterling__sociallink--vk svg {
+		width: 26px;
+		height: 16px;
+	}
+	.fosterling__sociallink--inst svg {
+		width: 23px;
+		height: 23px;
+	}
+
+	/* * ======= Секция 5 "Финансовая поддержка" ======= */
+	.support {
+		padding: 23px 0px 16px 0px;
+	}
+	.support__title-img img {
+		height: 40px;
+		padding: 0px 30px;
+	}
+	.support__promo {
+		margin: 30px 0px 0px 0px;
+	}
+	.support__title {
+		font-size: 20px;
+	}
+	.support__text {
+		max-width: 358px;
+	}
+	.support__contentboxes {
+		max-width: 550px;
+		padding-left: 50px;
+	}
+	.support__contentbox-left {
+		min-width: 237px;
+		margin: 0px 27px 0px 0px;
+	}
+	.support__subtitle {
+		font-size: 20px;
+	}
+
+	/* * ======= Секция 6 "Помощь" ======= */
+	.helping {
+		padding: 40px 0px 0px 0px;
+	}
+	.helping__title-img img {
+		height: 44px;
+		padding: 0px 30px;
+	}
+	.helping__container {
+		max-width: 400px;
+		padding: 30px 0px 0px 0px;
+	}
+	.helping__title {
+		font-size: 20px;
+	}
+	.helping__text, 
+	.helping__list,
+	.helping__article-footer {
+	font-size: 14px;
+	}
+
+	/* * ======= Секция 7 "Автопомощь" ======= */
+	.assistcar {
+		margin: 60px 0px;
+	}
+	.assistcar__title-img img {
+		height: 50px;
+		padding: 0px 30px;
+	}
+	.assistcar__banner {
+		max-width: 410px;
+		margin: 26px auto 0px auto;
+		padding: 0px 5px;
+	}
+	.assistcar__title {
+		font-size: 20px;
+	}
+	.assistcar__text {
+		font-size: 14px;
+	}
+
+	/* * ======= Секция 8 "Волонтерство" ======= */
+	.volunteering {
+		margin: 0px 0px 40px 0px;
+	}
+	.volunteering__title-img img {
+		height: 48px;
+		padding: 0px 40px;
+	}
+	.volunteering__wrapper {
+		margin-top: 40px;
+		max-width: 600px;
+	}
+	.volunteering__img {
+		margin-top: 60px;
+	}
+	.volunteering__img::before {
+		min-height: 298px;
+	}
+	.volunteering__img-pic {
+		border: 15px solid #FFC41E;
+	}
+	.volunteering__banner {
+		margin: 0px 0px 0px 40px;
+		max-width: 220px;
+	}
+	.volunteering__title {
+		font-size: 20px;
+	}
+	.volunteering__text {
+		font-size: 14px;
+		padding: 24px 0px 40px 0px;
+	}
+	.volunteering__btn {
+		padding: 5px 30px;
+	}
+
+	/* * ======= Секция 9 "Новости" ======= */
+	.news {
+		padding: 24px 0px;
+	}
+	.news__wrapper {
+		max-width: 426px;
+		margin: 25px auto 0px auto;
+	}
+	.news__article--marbottom {
+		margin: 0px 0px 46px 0px;
+	}
+	.news__img {
+		max-width: 104px;
+		max-height: 104px;
+	}
+	.news__content {
+		margin-left: 18px;
+	}
+	.news__text {
+		font-size: 14px;
+	}
+	.news__cont--link {
+		margin: 16px 0px 0px 0px;
+	}
+
+	/* * ======= Секция 10 "О нас" ======= */
+	.about {
+		padding: 48px 0px;
+	}
+	.about__title {
+		font-size: 20px;
+	}
+	.about__wrapper {
+		max-width: 498px;
+		padding-left: 45px;
+	}
+	.about__text {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.about__subtitle {
+		font-size: 18px;
+		line-height: 21px;
+	}
+	.about__contacts {
+		margin: 16px 0px 32px 0px;
+	}
+	.about__social-link {
+		width: 40px;
+		height: 40px;
+	}
+	.about__social-link--vk svg {
+		width: 26px;
+		height: 16px;
+	}
+	.about__social-link--inst svg {
+		width: 22px;
+		height: 22px;
+	}
+
+	/* *======= Секция 11 "Спасибо за помощь" ======= */
+	.gratitude {
+		padding: 67px 0px 57px 0px;
+		min-height: 416px;
+	}
+	.gratitude__container {
+		max-width: 668px;
+	}
+	.gratitude__wrapper {
+		min-width: 292px;
+		min-height: 292px;
+	}
+	.gratitude__wrapper::before {
+		content: '';
+		position: absolute;
+		width: 150%;
+		min-height: 292px;
+		right: 50%;
+		top: 0;
+		background-color: #322D1E;
+	}
+	.gratitude__text {
+		margin: 103px 0px 0px 21px;
+	}
+	.gratitude__title {
+		font-size: 36px;
+		line-height: 44px;
+		max-width: 190px;
+	}
+	.gratitude__img {
+		height: 50px;
+	}
+	
+	/* *======= Футтер ======= */
+	.footer {
+		padding: 24px 0px 16px 0px;
+	}
+	.footer__nav {
+		grid-template: auto auto / 3fr 1fr;
+		row-gap: 20px;
+	}
+	.footer__nav-item {
+		grid-column: 1/2;
+		display: grid;
+		grid-template-rows: repeat(3, 1fr);
+		grid-auto-flow: column;
+		column-gap: 56px;
+		row-gap: 20px;
+	}
+	.footer__nav-link {
+		margin-right: 0px;
+	}
+	.footer__about-item {
+		justify-self: end;
+		display: grid;
+		grid-template-rows: repeat(3, 1fr);
+		row-gap: 20px;
+		justify-items: end;
+	}
+	.footer__about-link {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.footer__copy {
+		grid-column: 1/3;
+		justify-self: center;
+	}
+}
+
+@media (max-width: 767px) {
+	.container {
+		max-width: 392px;
+	}
+
+	/* * ======= Шапка ======= */
+	.header__burger {
+		width: 24px;
+		height: 17px;
+	}
+	.header__burger span {
+		top: 7px;
+	}
+	.header__burger.active::before {
+		top: 7px;
+	}
+	.header__burger.active::after {
+		bottom: 7px;
+	}
+	.header__container-link {
+		height: 320px;
+		padding: 64px 0px 0px 0px;
+	}
+	.header__container-link.active::before {
+		height: 64px;
+	}
+	.header__container-link div a {
+		height: 62px;
+		line-height: 62px;
+		max-width: 392px;
+	}
+	.header__container-sociallink {
+		margin-right: 0px;
+	}
+	.header__sociallink {
+		width: 32px;
+		height: 32px;
+		border: 1px solid #FFFFFF;
+	}
+	.header__sociallink--inst {
+		margin-left: 22px;
+	}
+	.header__sociallink--vk svg {
+		width: 21px;
+		height: 14px;
+	}
+	.header__sociallink--inst svg {
+		width: 18px;
+		height: 18px;
+	}
+	.header__img-top {
+		display: none;
+	}
+	.header__img-top--mw767px {
+		display: flex;
+		position: absolute;
+		top: 0;
+		right: 0;
+		z-index: -5;
+	}
+	.header__img-bottom {
+		display: none;
+	}
+	.header__img-bottom--mw767px {
+		display: flex;
+		position: absolute;
+		top: 251px;
+		right: 95px;
+		z-index: 1;
+	}
+
+	/* * ======= Секция 1 "Приветствие" ======= */
+	.greeting__banner {
+		margin: 20px 0px 47px 0px;
+	}
+	.greeting__title {
+		font-size: 30px;
+		line-height: 36px;
+	}
+	.greeting__text {
+		margin-top: 0px;
+		max-width: 282px;
+		font-size: 12px;
+		line-height: 14px;
+	}
+	.greeting__target {
+		max-width: 280px;
+		margin-top: 20px;
+	}
+	.greeting__slogan {
+		max-width: 380px;
+		margin: 152px auto 20px auto;
+		text-align: center;
+	}
+	.greeting__btn {
+		font-size: 18px;
+		line-height: 30px;
+		padding: 0px 45px;
+		margin: 0 auto;
+		display: block;
+		z-index: 3;
+	}
+	.greeting__imgtext {
+		left: -116px;
+		bottom: 130px;
+	}
+
+	/* * ======= Секция 2 ======= */
+	.sectiontwo__wrapper {
+		padding: 16px 5px;
+		display: block;
+	}
+	.sectiontwo__img {
+		display: flex;
+		position: relative;
+		justify-content: center;
+	}
+	.sectiontwo__img::before {
+		min-height: 193px;
+	}
+	.sectiontwo__img-big {
+		border: 10px solid #FFC41E;
+	}
+	.sectiontwo__img-small  {
+		top: 110px;
+		right: 81px;
+	}
+	.sectiontwo__img-small img {
+		border: 3px solid #EEBF3A;
+		border-radius: 100%;
+	}
+	.sectiontwo__banner {
+		max-width: 382px;
+		margin: 32px 0px 0px 0px;
+	}
+	.sectiontwo__subtitle {
+		font-size: 16px;
+		margin: 0px 0px 16px 0px;
+	}
+
+	/* * ===== Секция 3 "Как помочь?" ===== */
+	.help__container {
+		max-width: 500px;
+	}
+	.help__title {
+		font-size: 18px;
+		margin: 32px 0px 10px 0px;
+	}
+	.help__item {
+		max-width: 142px;
+		margin: 24px 8px 0px;
+	}
+	.help__item-img {
+		width: 80px;
+		height: 80px;
+	}
+	.help__item div svg {
+		margin: auto;
+		width: 50px;
+		height: 50px;
+	}
+
+	/* * ======= Секция 4 "Наши подопечные" ======= */
+	.fosterling {
+		margin: 40px 0px 0px 0px;
+	}
+	.fosterling__title-img img {
+		height: 52px;
+		padding: 0px 43px;
+	}
+	.fosterling__banners {
+		margin: 24px 0px 0px 0px;
+		display: block;
+	}
+	.fosterling__banner {
+		max-width: 100%;
+	}
+	.fosterling__banner-left {
+		margin: 0px 0px 32px 0px;
+	}
+	.fosterling__subtitle {
+		font-size: 16px;
+		margin-bottom: 16px;
+		text-align: center;
+	}
+	.fosterling__text {
+		font-size: 14px;
+	}
+	.fosterling__title {
+		font-size: 20px;
+		margin: 40px 0px 16px 0px;
+	}
+	.fosterling__cards {
+		grid-template-columns: minmax(auto, 300px);
+		row-gap: 22px;
+		justify-content: center;
+	}
+	.fosterling__img {
+		margin: 0px 0px 12px 0px;
+	}
+	.fosterling__name::after {
+		content: '';
+		display: block;
+		width: 100%;
+		height: 1px;
+		background-color: #D6D6D6;
+		opacity: 0.5;
+		margin: 6px 0px 0px 0px;
+	}
+	.fosterling__age {
+		margin: 6px 0px;
+	}
+	.fosterling__btn-home {
+		font-size: 18px;
+		line-height: 30px;
+		padding: 0px 22px;
+		margin: 35px auto 0px;
+	}
+	.fosterling__btn-transfer {
+		font-size: 18px;
+		line-height: 26px;
+		padding: 0px 16px;
+		margin: 20px auto 0px;
+	}
+	.fosterling__bottom {
+		display: block;
+		max-width: 382px;
+		margin: 0px auto 26px auto;
+	}
+	.fosterling__text-bottom {
+		max-width: 382px;
+		margin: 0px 0px 6px 0px;
+	}
+	.fosterling__sociallinks {
+		display: flex;
+		justify-content: center;
+		margin: 0px 0px 0px 0px;
+	}
+	.fosterling__sociallink {
+		width: 32px;
+		height: 32px;
+		border: 1px solid #FFC41E;
+		border-radius: 100%;
+		margin: 0px 24px;
+	}
+	.fosterling__sociallink--vk svg {
+		width: 20px;
+		height: 12px;
+	}
+	.fosterling__sociallink--inst svg {
+		width: 18px;
+		height: 18px;
+	}
+
+	/* * ======= Секция 5 "Финансовая поддержка" ======= */
+	.support {
+		padding: 22px 0px 16px 0px;
+	}
+	.support__title-img img {
+		height: 35px;
+		padding: 0px 40px;
+	}
+	.support__promo {
+		margin: 30px auto 0px auto;
+		max-width: 382px;
+	}
+	.support__title {
+		font-size: 16px;
+	}
+	.support__text {
+		max-width: 382px;
+	}
+	.support__contentboxes {
+		max-width: 392px;
+		padding: 0px 5px;
+		display: block;
+		margin: 40px auto 0px auto;
+	}
+	.support__contentbox-left {
+		min-width: 382px;
+		margin: 0px 0px 32px 0px;
+	}
+	.support__subtitle {
+		margin: 0px 0px 16px 0px;
+	}
+	.support__btn {
+		display: block;
+		margin: 16px auto 0px auto;
+		font-size: 18px;
+		line-height: 30px;
+		padding: 0px 27px;
+	}
+
+	/* * ======= Секция 6 "Помощь" ======= */
+	.helping {
+		padding: 37px 0px 0px 0px;
+	}
+	.helping__title-img img {
+		height: 37px;
+		padding: 0px 48px;
+	}
+	.helping__container {
+		max-width: 382px;
+		padding: 0px 5px;
+		margin: 29px auto 0px auto;
+	}
+	.helping__title {
+		font-size: 16px;
+		margin: 0px 0px 16px 0px;
+	}
+	.mb {
+		margin-bottom: 16px;
+	}
+	.helping__cont-link {
+		text-align: center;
+	}
+
+	/* * ======= Секция 7 "Автопомощь" ======= */
+	.assistcar {
+		margin: 42px 0px;
+	}
+	.assistcar__title-img img {
+		height: 43px;
+		padding: 0px 48px;
+	}
+	.assistcar__banner {
+		max-width: 392px;
+	}
+	.assistcar__title {
+		font-size: 16px;
+		text-align: center;
+	}
+	.assistcar__text {
+		margin: 16px 0px;
+	}
+	.assistcar__btn {
+		font-size: 18px;
+		line-height: 30px;
+		padding: 0px 27px;
+		display: block;
+		margin: 0 auto;
+	}
+
+	/* * ======= Секция 8 "Волонтерство" ======= */
+	.volunteering {
+		margin: 0px 0px 32px 0px;
+	}
+	.volunteering__title-img img {
+		height: 40px;
+		padding: 0px 55px;
+	}
+	.volunteering__wrapper {
+		display: block;
+		margin-top: 27px;
+	}
+	.volunteering__img {
+		margin-top: 0px;
+		display: flex;
+		justify-content: center;
+	}
+	.volunteering__img::before {
+		min-height: 212px;
+	}
+	.volunteering__img-pic {
+		border: 11px solid #FFC41E;
+	}
+	.volunteering__banner {
+		margin: 24px 0px 0px 0px;
+		max-width: 382px;
+	}
+	.volunteering__title {
+		font-size: 16px;
+		text-align: center;
+	}
+	.volunteering__text {
+		padding: 16px 0px;
+	}
+	.volunteering__btn {
+		font-size: 18px;
+		line-height: 30px;
+		padding: 0px 27px;
+		display: block;
+		margin: 0 auto;
+	}
+
+	/* * ======= Секция 9 "Новости" ======= */
+	.news {
+		padding: 16px 0px;
+	}
+	.news__title {
+		font-size: 16px;
+	}
+	.news__wrapper {
+		max-width: 392px;
+		margin: 24px auto 0px auto;
+	}
+	.news__article {
+		align-items: start;
+	}
+	.news__article--marbottom {
+		margin: 0px 0px 24px 0px;
+	}
+	.news__img {
+		max-width: 79px;
+		max-height: 79px;
+	}
+	.news__content {
+		margin-left: 16px;
+	}
+	.news__cont--link {
+		margin: 16px 0px 0px 0px;
+		text-align: center;
+	}
+
+	/* * ======= Секция 10 "О нас" ======= */
+	.about {
+		padding: 32px 0px 24px;
+	}
+	.about__title {
+		font-size: 16px;
+	}
+	.about__wrapper {
+		max-width: 392px;
+		padding: 0px 5px;
+	}
+	.about__contacts {
+		margin: 18px 0px 24px 0px;
+	}
+	.about__social {
+		display: flex;
+	}
+	.about__socialtext {
+		margin: 0px 24px 0px 0px;
+		max-width: 282px;
+	}
+	.about__social-link {
+		width: 24px;
+		height: 24px;
+		border: 1px solid #FFC41E;
+	}
+	.about__social-link-marleft {
+		margin-left: 28px;
+	}
+	.about__social-link--vk svg {
+		width: 15px;
+		height: 9px;
+	}
+	.about__social-link--inst svg {
+		width: 14px;
+		height: 14px;
+	}
+
+	/* *======= Секция 11 "Спасибо за помощь" ======= */
+	.gratitude {
+		padding: 74px 0px;
+		min-height: 360px;
+	}
+	.gratitude__container {
+		max-width: 564px;
+	}
+	.gratitude__wrapper {
+		min-width: 212px;
+		min-height: 212px;
+	}
+	.gratitude__wrapper::before {
+		content: '';
+		position: absolute;
+		width: 150%;
+		min-height: 212px;
+		right: 50%;
+		top: 0;
+		background-color: #322D1E;
+	}
+	.gratitude__text {
+		margin: 68px 0px 0px -8px;
+	}
+	.gratitude__title {
+		font-size: 30px;
+		line-height: 36px;
+		max-width: 155px;
+	}
+	.gratitude__img {
+		height: 42px;
+	}
+
+	/* *======= Футтер ======= */
+	.footer__nav-item {
+		grid-template-rows: repeat(5, 1fr);
+	}
+	.footer__about-item {
+		grid-template-rows: repeat(5, 1fr);
+	}
+}
+
+@media (max-width: 639px) {
+	.container {
+		max-width: 310px;
+	}
+	
+	/* *======= Шапка ======= */
+	.header__container-link {
+		min-width: 300px;
+		height: 367px;
+		padding: 74px 0px 0px 0px;
+	}
+	.header__container-link div {
+		max-width: 300px;
+		margin: auto;
+	}
+	.header__container-link div a {
+		height: 68px;
+		line-height: 68px;
+		max-width: 300px;
+		margin: 0 auto;
+	}
+	.header__img-bottom--mw767px {
+		right: 51px;
+	}
+
+	/* * ======= Секция 1 "Приветствие" ======= */
+	.greeting__banner {
+		margin: 20px 0px 28px 0px;
+	}
+	.greeting__text {
+		max-width: 210px;
+	}
+	.greeting__target {
+		max-width: 158px;
+	}
+	.greeting__slogan {
+		max-width: 300px;
+		margin: 92px auto 20px auto;
+	}
+	.greeting__imgtext {
+		left: -30px;
+		bottom: 150px;
+	}
+
+	/* *======= Секция 2 ======= */
+	.sectiontwo__img-small  {
+		top: 110px;
+		right: 41px;
+	}
+	.sectiontwo__banner {
+		max-width: 300px;
+	}
+
+	/* *===== Секция 3 "Как помочь?" ===== */
+	.help__container {
+		max-width: 340px;
+	}
+	.help__title {
+		margin: 32px 0px 0px 0px;
+	}
+
+	/* * ======= Секция 4 "Наши подопечные" ======= */
+	.fosterling__link {
+		margin: 22px 0px 40px 0px;
+	}
+	.fosterling__bottom {
+		max-width: 300px;
+		margin: 0px auto 28px auto;
+	}
+
+	/* * ======= Секция 5 "Финансовая поддержка" ======= */
+	.support__promo {
+		max-width: 300px;
+	}
+	.support__text {
+		max-width: 300px;
+	}
+	.support__contentboxes {
+		max-width: 310px;
+	}
+	.support__contentbox-left {
+		min-width: 300px;
+	}
+
+	/* * ======= Секция 6 "Помощь" ======= */
+	.helping__container {
+		max-width: 310px;
+	}
+	.helping__title {
+		margin: 0px 0px 16px 0px;
+	}
+
+	/* * ======= Секция 7 "Автопомощь" ======= */
+	.assistcar__banner {
+		max-width: 310px;
+	}
+
+	/* * ======= Секция 8 "Волонтерство" ======= */
+	.volunteering__banner {
+		max-width: 300px;
+	}
+
+	/* * ======= Секция 9 "Новости" ======= */
+	.news__wrapper {
+		max-width: 310px;
+	}
+
+	/* *======= Секция 10 "О нас" ======= */
+	.about__wrapper {
+		max-width: 310px;
+	}
+	.about__social {
+		justify-content: space-between;
+	}
+	.about__socialtext {
+		margin: 0px 0px 0px 0px;
+		max-width: 200px;
+	}
+	.about__social-links {
+		display: flex;
+	}
+	.about__social-link {
+		width: 32px;
+		height: 32px;
+	}
+	.about__social-link-marleft {
+		margin-left: 24px;
+	}
+	.about__social-link--vk svg {
+		width: 20px;
+		height: 12px;
+	}
+	.about__social-link--inst svg {
+		width: 18px;
+		height: 18px;
+	}
+
+	/* *======= Секция 11 "Спасибо за помощь" ======= */
+	.gratitude {
+		padding: 39px 0px 16px;
+		min-height: 267px;
+	}
+	.gratitude__container {
+		max-width: 284px;
+	}
+
+	/* * ======= Футтер ======= */
+	.footer__nav-item {
+		column-gap: 0px;
+	}
+}
